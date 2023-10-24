@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+/* HEADER */
+
+.prima_parola{
+    margin-left:13px;
+    color:white;
+}
+
+.seconda_parola {
+    color:white;
+}
+
+.intestazione {
+    background-color:turquoise;
+}
