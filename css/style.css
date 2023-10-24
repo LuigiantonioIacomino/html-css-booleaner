@@ -8,10 +8,12 @@
 .prima_parola{
     margin-left:13px;
     color:white;
+    text-shadow: 1px 1px 4px black;
 }
 
 .seconda_parola {
     color:white;
+    text-shadow: 2px 1px 5px black;
 }
 
 .intestazione {
